@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/brickatyourfeet/weather#readme",
   "dependencies": {
+    "axios": "^0.13.1",
+    "chalk": "^2.1.0",
     "request": "^2.73.0",
     "yargs": "^4.8.1"
   }
